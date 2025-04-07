@@ -137,6 +137,7 @@ body {
 @media (min-width: 700px) {
   .card {
     max-width: 40rem;
+    height: 480px;
     display: grid;
     grid-template-columns: 1fr 1fr;
   }
